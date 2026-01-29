@@ -4,6 +4,7 @@
 # To ignore an entire folder: node_modules/
 # To ignore all files of a certain type: *.log
 
+.gitignore
 .env
 .bkp
 .bkp/
